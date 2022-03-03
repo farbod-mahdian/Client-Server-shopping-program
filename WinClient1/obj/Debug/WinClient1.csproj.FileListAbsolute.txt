@@ -1,0 +1,11 @@
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\bin\Debug\WinClient1.exe.config
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\bin\Debug\WinClient1.exe
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\bin\Debug\WinClient1.pdb
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.csprojAssemblyReference.cache
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.Form1.resources
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.LogIn.resources
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.Properties.Resources.resources
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.csproj.GenerateResource.cache
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.csproj.CoreCompileInputs.cache
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.exe
+C:\Users\Farbod\source\repos\PRG650\Term-Project\WinClient1\obj\Debug\WinClient1.pdb

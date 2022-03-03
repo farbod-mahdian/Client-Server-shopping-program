@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConServer", "ConServer\ConServer.csproj", "{405A40F2-57BA-49D1-9881-1B2DBBEC3257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinClient1", "WinClient1\WinClient1.csproj", "{B260BE77-7022-4F0D-AAC2-88657DC22B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405A40F2-57BA-49D1-9881-1B2DBBEC3257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405A40F2-57BA-49D1-9881-1B2DBBEC3257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405A40F2-57BA-49D1-9881-1B2DBBEC3257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405A40F2-57BA-49D1-9881-1B2DBBEC3257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B260BE77-7022-4F0D-AAC2-88657DC22B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B260BE77-7022-4F0D-AAC2-88657DC22B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B260BE77-7022-4F0D-AAC2-88657DC22B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B260BE77-7022-4F0D-AAC2-88657DC22B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D43D9C-1081-41BA-8F53-597700871C35}
+	EndGlobalSection
+EndGlobal

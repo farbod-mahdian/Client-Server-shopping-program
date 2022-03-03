@@ -1,0 +1,7 @@
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\bin\Debug\ConServer.exe.config
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\bin\Debug\ConServer.exe
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\bin\Debug\ConServer.pdb
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\obj\Debug\ConServer.csprojAssemblyReference.cache
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\obj\Debug\ConServer.csproj.CoreCompileInputs.cache
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\obj\Debug\ConServer.exe
+C:\Users\Farbod\source\repos\PRG650\Term-Project\ConServer\obj\Debug\ConServer.pdb
